@@ -7,7 +7,7 @@
 - 👀 I’m interested in: full stack development
 - 🌱 I’m currently learning: C
 - 📫 How to reach me: via email lachie.duncan12@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can solve a Rubik's cube in <20 seconds
 
 <!---
 lachied522/lachied522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
